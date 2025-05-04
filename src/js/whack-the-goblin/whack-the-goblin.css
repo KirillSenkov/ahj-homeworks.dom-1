@@ -7,10 +7,10 @@
 .hole {
     width: 100px;
     height: 100px;
-    background-image: url('../img/hole.png');
+    background-image: url('../../img/hole.png');
     background-size: cover;
 }
 
 .hole.goblin {
-    background-image: url('../img/goblin.png'), url('../img/hole.png');
+    background-image: url('../../img/goblin.png'), url('../../img/hole.png');
 }
